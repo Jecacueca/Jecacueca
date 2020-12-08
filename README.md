@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jess!</h1>
 <h3 align="center">A Junior Full-Stack Developer from London</h3>
 
-- 🔭 My most recent project [Dish Advisor](www.dish-advisor.com)
+- 🔭 My most recent project <a href="https://www.dish-advisor.com/">Dish Advisor</a>
 
 - 🌱 I’m currently learning a little more **Javascript and React**
 
